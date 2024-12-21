@@ -16,20 +16,11 @@ The project is built using Salesforce to streamline surplus food donations from 
 ## Table of Contents
 - [Project Description](#project-description)
 - [Key Features](#key-features)
-- [Setup Instructions](#setup-instructions)
 - [Tasks Implemented](#tasks-implemented)
 - [Conclusion](#conclusion)
 
 ## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd leftover-food-project
-   ```
-3. Follow the Salesforce setup instructions for developer account creation, object management, and Lightning app configuration as described in the [project documentation](./PROJECT_REPORT.md).
+1. Follow the Salesforce setup instructions for developer account creation, object management, and Lightning app configuration as described in the [project documentation](./PROJECT_REPORT.md).
 
 ## Tasks Implemented
 1. **Salesforce Developer Account Creation**
